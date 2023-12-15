@@ -18,4 +18,4 @@ Data acquired are open-source from various websites and by using Python and Jupy
 
 Any inquiries regarding the visualization, reach me at mirzasmusavi@gmail.com
 
-Link: https://public.tableau.com/views/CareEarth/Main?:language=en-US&:display_count=n&:origin=viz_share_link
+Link to the dashboard: https://public.tableau.com/views/CareEarth/Main?:language=en-US&:display_count=n&:origin=viz_share_link
