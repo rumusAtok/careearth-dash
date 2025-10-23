@@ -1,7 +1,8 @@
-# CareEarth Dashboard
+# 🌎 CareEarth Dashboard
 
 A simple dashboard about Earth temperature around the globe and Malaysia from 1900s until 2000s. Included with the dashboard is anomalies and prediction using Facebook Prophet and Tableau simple exponential smoothing. 
-There are some of the main benefits of using Facebook Prophet for time series forecasting:
+
+Some of the main benefits of using Facebook Prophet for time series forecasting:
 - **Easy to use**: Prophet has a simple, intuitive API that makes it very easy to generate forecasts quickly. It abstracts away much of the complexity of building forecasting models.
 - **Fast**: It is optimized to handle very large datasets and generate forecasts very quickly. This makes iterative modeling and testing faster.
 - **Open source**: Prophet is open source software released under the MIT license. This means it's free to use and customize as needed.
